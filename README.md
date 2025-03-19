@@ -18,8 +18,8 @@ I'm a **Web Developer, Ethical Hacker, and Cybersecurity Enthusiast** passionate
 
 ## 🌐 Connect With Me
 - 🏠 [Portfolio](https://about-me-kethan.vercel.app/)
-- 🔗 [LinkedIn]([https://linkedin.com/in/kethanvr](https://www.linkedin.com/in/kethan-vr-433ab532b/))
-- 🐦 [X (Twitter)]([https://twitter.com/yourhandle](https://x.com/VrKethan))
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/kethan-vr-433ab532b/))
+- 🐦 [X (Twitter)]((https://x.com/VrKethan))
 - 📷 [GitHub](https://github.com/Kethanvr)
 
 ## ⚡ Fun Fact
