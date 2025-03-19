@@ -4,7 +4,7 @@
 I'm a **Web Developer, Ethical Hacker, and Cybersecurity Enthusiast** passionate about building secure and scalable applications. I love working on **AI, cybersecurity, and app development** while constantly improving my skills in **web development, DevOps, and ethical hacking**.
 
 ## 🔥 Skills & Technologies
-- **Programming:** Python, C++, JavaScript ,c 
+- **Programming:** JavaScript ,C++,,c,Python, HTML/CSS
 - **Web Development:** HTML, CSS, React, Node.js 
 - **Cybersecurity:** Kali Linux, Metasploit, Hydra, Burp Suite , Parrot os
 - **Tools & Platforms:** Git, Supabase
