@@ -11,13 +11,14 @@ I'm a **Web Developer, Ethical Hacker, and Cybersecurity Enthusiast** passionate
 - **Databases:** MongoDB
 
 ## 📌 Projects
-- 🔎 **[InstaSearch](https://github.com/Kethanvr/InstaSearch)** - A powerful image search app using the Unsplash API.
-- 🎬 **[Movie Web App](https://github.com/Kethanvr/Movie-Web-App)** - Get detailed movie info, cast, reviews, and streaming links.
+- 🔍 **[AI-Driven Food Safety System](https://instascan.kethanvr.me/)** - Scans food labels & provides health scores.
+- 🎬 **[Movie Web App](https://cinesnap.kethanvr.me/)** - Get detailed movie info, cast, reviews, and streaming links.
+- 🔎 **[InstaSearch](https://instasearch.kethanvr.me/)** - A powerful image search app using the Unsplash API.
 - 🏥 **[MediLens](https://github.com/Kethanvr/MediScan)** - AI-powered medicine search & health insights.
-- 🔍 **[AI-Driven Food Safety System](https://github.com/Kethanvr/InstaScan)** - Scans food labels & provides health scores.
+
 
 ## 🌐 Connect With Me
-- 🏠 [Portfolio](https://about-me-kethan.vercel.app/)
+- 🏠 [Portfolio](https://www.kethanvr.me/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kethan-vr-433ab532b/)
 - 🐦 [X (Twitter)](https://x.com/VrKethan)
 - 📷 [GitHub](https://github.com/Kethanvr)
