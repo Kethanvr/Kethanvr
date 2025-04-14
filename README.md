@@ -14,7 +14,7 @@ I'm a **Web Developer, Ethical Hacker, and Cybersecurity Enthusiast** passionate
 - 🔍 **[AI-Driven Food Safety System](https://instascan.kethanvr.me/)** - Scans food labels & provides health scores.
 - 🎬 **[Movie Web App](https://cinesnap.kethanvr.me/)** - Get detailed movie info, cast, reviews, and streaming links.
 - 🔎 **[InstaSearch](https://instasearch.kethanvr.me/)** - A powerful image search app using the Unsplash API.
-- 🏥 **[MediLens](https://mediscan.kethanvr.me/)** - AI-powered medicine search & health insights.
+- 🏥 **[MediScan](https://mediscan.kethanvr.me/)** - AI-powered medicine search & health insights.
 
 
 ## 🌐 Connect With Me
