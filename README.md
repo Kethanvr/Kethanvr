@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a ** tech enthusiast** and a **problem solver** passionate about building **real-world, scalable, production-grade applications** that actually solve meaningful problems. I believe in focusing more on solving real-world challenges rather than just writing code.
+I'm a **tech enthusiast** and a **problem solver** passionate about building **real-world, scalable, production-grade applications** that actually solve meaningful problems. I believe in focusing more on solving real-world challenges rather than just writing code.
 
 Currently, I'm diving deep into **Next.js**, **TypeScript**, and **full-stack development**, working towards creating impactful software and tech solutions that make a real difference.
 
