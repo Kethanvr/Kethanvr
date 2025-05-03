@@ -17,7 +17,7 @@ While I'm still learning **cybersecurity** and exploring new fields, my main dri
 
 ## 📌 Projects
 
-- 🏥 **[MediScan](https://mediscan.kethanvr.me/)** — AI-powered medicine search and health insights platform.
+- 🏥 **[MediScan](https://downloadmediscan.kethanvr.me)** — AI-powered medicine search and health insights platform.
 - 🔮 **[Shūn.AI](https://ai.kethanvr.me/) (Coming Soon)** — Building an intelligent AI platform, a revolution in intelligence, with an innovation spirit at its core.
 - 🔍 **[InstaScan - AI-Driven Food Safety System](https://instascan.kethanvr.me/)** — Scans food labels and provides health scores.
 - 🎬 **[CineSnap - Movie Web App](https://cinesnap.kethanvr.me/)** — Get detailed movie info, cast, reviews, and streaming links.
