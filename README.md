@@ -32,5 +32,5 @@ While I'm still learning **cybersecurity** and exploring new fields, my main dri
 
 ## ⚡ Fun Fact
 
-Learning never stops — whether it's mastering **Next.js**, **TypeScript**, scaling software products, or picking up cybersecurity basics, I'm always building, always improving, and always chasing new knowledge! 🚀✨
+Learning never stops — whether it's mastering **Next.js**, **TypeScript**, scaling software products, I'm always building, always improving, and always chasing new knowledge! 🚀✨
 
