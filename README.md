@@ -6,7 +6,7 @@ I'm a **tech enthusiast** and a **problem solver** passionate about building **r
 
 Currently, I'm diving deep into **Next.js**, **TypeScript**, and **full-stack development**, working towards creating impactful software and tech solutions that make a real difference.
 
-While I'm still learning **cybersecurity** and exploring new fields, my main drive is towards constantly learning, building, and improving everyday.
+While I'm still learning and exploring new fields, my main drive is towards constantly building, and improving everyday.
 
 ## 🔥 Skills & Technologies
 
