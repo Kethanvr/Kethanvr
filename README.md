@@ -21,7 +21,7 @@ While I'm still learning and exploring new fields, my main drive is towards cons
 - 🔮 **[Shūn.AI](https://ai.kethanvr.me) (Coming Soon)** — Building an intelligent AI platform, a revolution in intelligence, with an innovation spirit at its core.
 - 🔍 **[InstaScan - AI-Driven Food Safety System](https://instascan.kethanvr.me)** — Scans food labels and provides health scores.
 - 🎬 **[CineSnap - Movie Web App](https://cinesnap.kethanvr.me)** — Get detailed movie info, cast, reviews, and streaming links.
-- 🔎 **[InstaSearch](https://instasearch.kethanvr.me/)** — A powerful image search app using the Unsplash API.
+- 🔎 **[InstaSearch](https://instasearch.kethanvr.me)** — A powerful image search app using the Unsplash API.
 
 ## 🌐 Connect With Me
 
