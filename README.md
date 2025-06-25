@@ -25,12 +25,12 @@ While I'm still learning and exploring new fields, my main drive is towards cons
 
 ## 🌐 Connect With Me
 
-- 🏠 [Portfolio](https://www.kethanvr.me/)
+- 🏠 [Portfolio](https://www.kethanvr.me)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kethanvr)
 - 📽️ [X (Twitter)](https://x.com/VrKethan)
 - 📷 [GitHub](https://github.com/Kethanvr)
 
 ## ⚡ Fun Fact
 
-Learning never stops — whether it's mastering **Next.js**, **TypeScript**, scaling software products, I'm always building, always improving, and always chasing new knowledge! 🚀✨
+Learning never stops — whether it's mastering **Next.js**, **TypeScript**, scaling software products, I'm always building, always improving, and always chasing new knowledge! ✨
 
