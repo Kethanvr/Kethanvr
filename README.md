@@ -26,7 +26,7 @@ While I'm still learning and exploring new fields, my main drive is towards cons
 ## 🌐 Connect With Me
 
 - 🏠 [Portfolio](https://www.kethanvr.me/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kethanvr/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kethanvr)
 - 📽️ [X (Twitter)](https://x.com/VrKethan)
 - 📷 [GitHub](https://github.com/Kethanvr)
 
