@@ -1,24 +1,34 @@
-<!-- Snake Contribution Graph -->
+<!-- 🐍 Snake Contribution Graph -->
 ![snake gif](https://github.com/Kethanvr/Kethanvr/blob/output/github-contribution-grid-snake-dark.svg)
+
+<!-- 🔥 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20👋%20I%27m%20Kethan%20VR!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<!-- ⌨️ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Full-Stack+Web+Developer;AI+Agent+Builder;Indie+Hacker;CMRIT+ISE+Student" />
+</p>
 
 ---
 
-# 👋 Hi there, I'm Kethan VR!
+# 👋 Who’s Kethan?
 
 > *Tech Enthusiast | Web Dev Nerd | Indie Hacker | Software Engineering @ CMRIT*
 
-I'm passionate about solving real-world problems through **scalable, production-ready software**. Whether it's building AI health tools or making movies easier to discover, I love crafting digital experiences that matter.
+I'm passionate about solving real-world problems through **scalable, production-ready software**. Whether it’s building AI health tools or making movies easier to discover, I love crafting digital experiences that matter.
 
-Currently exploring **Next.js + TypeScript** and leveling up my full-stack game. Constantly learning, constantly building. Let’s ship something awesome together!
+Currently exploring **Next.js + TypeScript** and leveling up my full-stack game. Constantly learning, constantly building. Let’s ship something awesome together! 🚀
 
 ---
 
-##  **About Me**
+## 🧠 About Me
 
 - 🎯 Focused on building real-world, impactful apps — not just “hello world”.
 - ⚒️ Working on full-stack projects that scale.
 - 🌱 Forever learning: Next.js, LangChain, Supabase, AI agents, etc.
-- 💡 Believer in **“build fast, fail smart, learn faster”**
+- 💡 Believer in **“build fast, fail smart, learn faster.”**
 
 ---
 
@@ -46,7 +56,7 @@ Currently exploring **Next.js + TypeScript** and leveling up my full-stack game.
       <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
     </td>
-      <td valign="top"><strong>Tools & Platforms:</strong><br>
+    <td valign="top"><strong>Tools & Platforms:</strong><br>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
@@ -56,10 +66,9 @@ Currently exploring **Next.js + TypeScript** and leveling up my full-stack game.
   </tr>
 </table>
 
-
 ---
 
-## 🧠 **Projects I’ve Built**
+## 🛠️ Projects I’ve Built
 
 - 🏥 **[MediScan](https://downloadmediscan.kethanvr.me)** – AI-powered health platform to identify medicines and side effects via scans.
 - 🔮 **[Shūn.AI](https://ai.kethanvr.me)** *(Coming Soon)* – Smart AI agent project focused on intelligence & innovation.
@@ -69,7 +78,8 @@ Currently exploring **Next.js + TypeScript** and leveling up my full-stack game.
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
+
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kethanvr&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Kethanvr&theme=radical&hide_border=true" />
@@ -77,7 +87,7 @@ Currently exploring **Next.js + TypeScript** and leveling up my full-stack game.
 
 ---
 
-## 🌐 **Let’s Connect**
+## 🌐 Let’s Connect
 
 - 🔗 [**Portfolio Website**](https://www.kethanvr.me)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/kethanvr)
@@ -87,11 +97,13 @@ Currently exploring **Next.js + TypeScript** and leveling up my full-stack game.
 
 ---
 
-## ⚡ **Fun Fact**
+## ⚡ Fun Fact
 
 I don’t just “code” — I **ship**.  
 Always chasing growth, product-market fit, and dopamine from clean deploys 💥
 
 ---
 
-### ✨ *"Code. Build. Learn. Repeat."*
+<p align="center">
+  ✨ <em><strong>“Code. Build. Learn. Repeat.”</strong></em> ✨
+</p>
