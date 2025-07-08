@@ -13,7 +13,7 @@ Currently exploring **Next.js + TypeScript** and leveling up my full-stack game.
 
 ---
 
-## 🚀 **About Me**
+##  **About Me**
 
 - 🎯 Focused on building real-world, impactful apps — not just “hello world”.
 - ⚒️ Working on full-stack projects that scale.
