@@ -1,36 +1,82 @@
-# Hi there, I'm Kethan VR! 👋
+<!-- Snake Contribution Graph -->
+![snake gif](https://github.com/Kethanvr/Kethanvr/blob/output/github-contribution-grid-snake-dark.svg)
 
-## 🚀 About Me
+---
 
-I'm a **tech enthusiast** and a **problem solver** passionate about building **real-world, scalable, production-grade applications** that actually solve meaningful problems. I believe in focusing more on solving real-world challenges rather than just writing code.
+# 👋 Hi there, I'm Kethan VR!
 
-Currently, I'm diving deep into **Next.js**, **TypeScript**, and **full-stack development**, working towards creating impactful software and tech solutions that make a real difference.
+> *Tech Enthusiast | Web Dev Nerd  | Software Engineering student @ CMRIT*
 
-While I'm still learning and exploring new fields, my main drive is towards constantly building, and improving everyday.
+I'm passionate about solving real-world problems through **scalable, production-ready software**. Whether it's building AI health tools or making movies easier to discover, I love crafting digital experiences that matter.
 
-## 🔥 Skills & Technologies
+Currently exploring **Next.js + TypeScript** and leveling up my full-stack game. Constantly learning, constantly building. Let’s ship something awesome together!
 
-- **Programming:** JavaScript, C++, C, Python, HTML/CSS
-- **Web Development:** HTML, CSS, React, Express, Node.js, Next.js, TypeScript
-- **Databases:** MongoDB, Supabase
-- **Tools & Platforms:** Git, Vercel 
+---
 
-## 📌 Projects
+## **About Me**
 
-- 🏥 **[MediScan](https://downloadmediscan.kethanvr.me)** — AI-powered medicine search and health insights platform.
-- 🔮 **[Shūn.AI](https://ai.kethanvr.me) (Coming Soon)** — Building an intelligent AI platform, a revolution in intelligence, with an innovation spirit at its core.
-- 🔍 **[InstaScan - AI-Driven Food Safety System](https://instascan.kethanvr.me)** — Scans food labels and provides health scores.
-- 🎬 **[CineSnap - Movie Web App](https://cinesnap.kethanvr.me)** — Get detailed movie info, cast, reviews, and streaming links.
-- 🔎 **[InstaSearch](https://instasearch.kethanvr.me)** — A powerful image search app using the Unsplash API.
+- 🎯 Focused on building real-world, impactful apps — not just “hello world”.
+- ⚒️ Working on full-stack projects that scale.
+- 🌱 Forever learning: Next.js, LangChain, Supabase, AI agents, etc.
+- 💡 Believer in **“build fast, fail smart, learn faster”**
 
-## 🌐 Connect With Me
+---
 
-- 🏠 [Portfolio](https://www.kethanvr.me)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kethanvr)
-- 📽️ [X (Twitter)](https://x.com/VrKethan)
-- 📷 [GitHub](https://github.com/Kethanvr)
+## 🔥 **Skills & Tech**
 
-## ⚡ Fun Fact
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-Learning never stops — whether it's mastering **Next.js**, **TypeScript**, Scaling software products, I'm always building, always improving, and always chasing new knowledge! 
+**Web Dev:**  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+**Databases & Infra:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 🧠 **Projects I’ve Built**
+
+- 🏥 **[MediScan](https://downloadmediscan.kethanvr.me)** – AI-powered health platform to identify medicines and side effects via scans.
+- 🔮 **[Shūn.AI](https://ai.kethanvr.me)** *(Coming Soon)* – Smart AI agent project focused on intelligence & innovation.
+- 🥫 **[InstaScan](https://instascan.kethanvr.me)** – Scans food product labels, gives health scores, and alerts about harmful ingredients.
+- 🎬 **[CineSnap](https://cinesnap.kethanvr.me)** – Movie info explorer with cast, trailers, streaming, and ratings.
+- 🔎 **[InstaSearch](https://instasearch.kethanvr.me)** – Beautiful Unsplash-powered image search engine.
+
+---
+
+## 📊 **GitHub Stats**
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kethanvr&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Kethanvr&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🌐 **Let’s Connect**
+
+- 🔗 [**Portfolio Website**](https://www.kethanvr.me)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/kethanvr)
+- 🐦 [**X (Twitter)**](https://x.com/VrKethan)
+- 💻 [**GitHub**](https://github.com/Kethanvr)
+- 📸 [**Threads**](https://www.threads.net/@kethan_vr_)
+
+---
+
+## ⚡ **Fun Fact**
+
+I don’t just “code” — I **ship**.  
+Always chasing growth, product-market fit, and dopamine from clean deploys 💥
+
+---
+
+### ✨ *"Code. Build. Learn. Repeat."*
