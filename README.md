@@ -5,7 +5,7 @@
 
 # 👋 Hi there, I'm Kethan VR!
 
-> *Tech Enthusiast | Web Dev Nerd | Indie Hacker | Software Engineering @ CMRIT*
+> *Tech Enthusiast | Web Dev Nerd | Software Engineering Student @ CMRIT*
 
 I'm passionate about solving real-world problems through **scalable, production-ready software**. Whether it's building AI health tools or making movies easier to discover, I love crafting digital experiences that matter.
 
