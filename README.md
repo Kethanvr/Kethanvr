@@ -81,7 +81,7 @@ Currently exploring **Next.js + TypeScript** and leveling up my full-stack game.
 
 - 🔗 [**Portfolio Website**](https://www.kethanvr.me)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/kethanvr)
-- 🐦 [**X (Twitter)**](https://x.com/VrKethan)
+- 🐦 [**X (Twitter)**](https://x.com/kethan_vr)
 - 💻 [**GitHub**](https://github.com/Kethanvr)
 - 📸 [**Threads**](https://www.threads.net/@kethan_vr_)
 
