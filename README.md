@@ -127,10 +127,6 @@ I'm a software engineering student passionate about building practical, scalable
 - **Description**: An AI-powered label scanner that extracts ingredient details from food, medicine, and cosmetic products, providing a health score to help users make informed choices.
 - **Stack**: _HTML, CSS, JavaScript, Node.js, OpenFoodFacts API, Machine Learning_
 
-### 🐾 **[Petty](https://petty.kethanvr.me)**
-
-- **Description**: An award-winning eCommerce platform for pet food, created as a 1st Semester Mini Project at CMRIT Bangalore. Features filters, multi-image selection, and shopping options.
-- **Stack**: _HTML, CSS, JavaScript_
 
 ---
 
