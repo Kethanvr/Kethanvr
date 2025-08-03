@@ -71,44 +71,66 @@ I'm a software engineering student passionate about building practical, scalable
 
 <div align="center">
 
-<a href="https://github.com/Kethanvr/cocreateai" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=cocreateai&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+<a href="https://github.com/Kethanvr/cocreateai-about" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=cocreateai-about&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
 </a>
 <a href="https://github.com/Kethanvr/Download-Mediscan" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=MediScan&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=Download-Mediscan&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
 </a>
 
 </div>
 
-### 🤖 **[CoCreateAI](https://cca.kethanvr.me)**
+### 🔍 **[InstaSearch](https://instasearch.kethanvr.me)**
 
-- **Description**: An AI-powered collaborative platform to create, manage, and share prompts with smart assistance, version control, and a real-time testing playground.
-- **Stack**: _Next.js 14, TypeScript, Supabase, Gemini API, LangChain_
-
-### 🏥 **[MediScan](https://downloadmediscan.kethanvr.me)**
-
-- **Description**: An AI health platform that identifies medicines and their side effects from a scan, complete with a health-focused AI chatbot.
-- **Stack**: _React, Vite, Tailwind CSS, Supabase, Gemini API_
+- **Description**: An image search app that allows users to search for high-quality images from Unsplash based on keywords, providing a seamless search experience with an intuitive user interface.
+- **Stack**: _HTML, CSS, JavaScript, Node.js, Tailwind CSS, Unsplash API_
 
 ### 🏛️ **[OriginX Heritage Hub](https://originx.kethanvr.me)**
 
-- **Description**: A modern e-commerce platform dedicated to preserving India's authentic regional products and cultural heritage.
-- **Stack**: _React 18, TypeScript, Vite, ShadCN UI, TanStack Query_
+- **Description**: A modern e-commerce platform dedicated to preserving and promoting India's authentic regional products and cultural heritage. Features smart search, regional discovery, and verified sellers.
+- **Stack**: _React 18, TypeScript, Vite, Tailwind CSS, ShadCN UI, React Router DOM, TanStack Query, Lucide React, React Hook Form, Zod Validation, Radix UI, Vercel_
 
 ### 🎬 **[CineSnap](https://cinesnap.kethanvr.me)**
 
-- **Description**: A movie info explorer to find details on cast, trailers, and ratings. It also features CineShot for downloading high-quality movie images.
+- **Description**: A user-friendly platform for movie enthusiasts offering detailed insights into movies, cast, and crew. Features CineShot for downloading high-quality images like wallpapers, logos, and posters.
 - **Stack**: _HTML, CSS, JavaScript, Node.js, TMDB API_
 
-### 🔍 **[InstaSearch](https://instasearch.kethanvr.me)**
 
-- **Description**: An image search app that allows users to find high-quality images from Unsplash using keywords, built with a seamless and intuitive UI.
-- **Stack**: _HTML, CSS, JavaScript, Node.js, Tailwind CSS, Unsplash API_
+
+### 💻 **[CodeX AI](https://github.com/Kethanvr/Codex-about)**
+
+- **Description**: A modern, AI-powered development platform designed to provide a clean, fast, and genuinely enjoyable coding experience with multi-framework support, real-time preview, and AI-assisted development.
+- **Stack**: _React, Remix, TypeScript, CodeMirror 6, Radix UI, UnoCSS, Electron, Multiple AI Providers, Vercel, Netlify_
 
 ### 🤖 **[Shūn.AI](https://ai.kethanvr.me)**
 
-- **Description**: An exploratory AI project aimed at advanced problem-solving. This is an early-stage concept I'm developing to push the boundaries of AI.
+- **Description**: A revolution in artificial intelligence, pushing the boundaries of what machines can understand and achieve. Currently in early stages with a focus on advanced problem-solving.
 - **Stack**: _Next.js, TypeScript, ShadCN, Accessibility UI, AI Model (Future Plan)_
+
+### 🔐 **[Smart Wordlist Generator](https://github.com/Kethanvr/WordList)**
+
+- **Description**: A sophisticated penetration testing tool that intelligently generates targeted wordlists for security assessments with service-specific customization, multi-level complexity algorithms, and password policy filters.
+- **Stack**: _Python, CLI Interface, Security Testing, Password Analysis, Hydra Integration, Medusa Integration, Educational Tool_
+
+### 🛡️ **[Nmap GUI Toolkit](https://github.com/Kethanvr/Nmap)**
+
+- **Description**: An advanced network reconnaissance automation tool designed for ethical hackers and penetration testers with router scanning, connected devices detection, web server security analysis, and automatic report saving.
+- **Stack**: _Python, GUI Interface, Nmap Integration, Network Security, Linux (Kali/Parrot), Ethical Hacking, Network Reconnaissance, Automation_
+
+### 🧠 **[TherapEase](https://therapease.kethanvr.me)**
+
+- **Description**: An AI-driven web application designed to provide accessible, compassionate mental health support with chat functionality, mood tracking, medication reminders, and relaxation exercises.
+- **Stack**: _Next.js, React, TypeScript, Tailwind CSS, Supabase, Clerk Auth, Gemini API, LangChain, Vercel_
+
+### 🔍 **[InstaScan](https://instascan.kethanvr.me)**
+
+- **Description**: An AI-powered label scanner that extracts ingredient details from food, medicine, and cosmetic products, providing a health score to help users make informed choices.
+- **Stack**: _HTML, CSS, JavaScript, Node.js, OpenFoodFacts API, Machine Learning_
+
+### 🐾 **[Petty](https://petty.kethanvr.me)**
+
+- **Description**: An award-winning eCommerce platform for pet food, created as a 1st Semester Mini Project at CMRIT Bangalore. Features filters, multi-image selection, and shopping options.
+- **Stack**: _HTML, CSS, JavaScript_
 
 ---
 
@@ -173,11 +195,7 @@ I'm always open to connecting with fellow developers and discussing new ideas. F
 
 ## Currently Coding To
 
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=7F3FBF)](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=7F3FBF)
-
-</div>
+<div align="center"> <img src="https://spotify-github-profile.kittinanx.com/api/spotify?background_color=1a1b27&border_color=7F3FBF&bar_color=53d769" alt="Spotify Now Playing Card" /> </div>
 
 ---
 
