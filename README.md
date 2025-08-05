@@ -74,7 +74,7 @@ I'm a software engineering student passionate about building practical, scalable
 <a href="https://github.com/Kethanvr/cocreateai-about" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=cocreateai-about&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
 </a>
-<a href="https://github.com/Kethanvr/Download-Mediscan" target="_blank">
+<a href="https://download-mediscan.vercel.app" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=Download-Mediscan&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
 </a>
 
