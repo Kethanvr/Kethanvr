@@ -93,7 +93,7 @@ What really gets me going? Taking messy, complicated problems and turning them i
 
 Started this because I got tired of scrolling through endless stock photo sites. Now you can search Unsplash photos lightning-fast with a clean interface that doesn't make your eyes hurt.
 
-*Built with: HTML, CSS, JavaScript, Node.js, Tailwind CSS, Unsplash API*
+*Built with: Next.js, TypeScript, ShadCN, Tailwind CSS, Unsplash API*
 
 ### 🏛️ **[OriginX Heritage Hub](https://originx.kethanvr.me)** - Keeping culture alive, digitally
 
@@ -105,7 +105,7 @@ This one's close to my heart. It's an e-commerce platform showcasing India's aut
 
 Ever wanted high-quality movie wallpapers or posters? This platform gives you detailed movie info plus CineShot for downloading gorgeous images. Perfect for when Netflix's thumbnails just won't cut it.
 
-*Built with: HTML, CSS, JavaScript, Node.js, TMDB API*
+*Built with: Next.js, TypeScript, ShadCN , TMDB API*
 
 ### 💻 **[CodeX AI](https://github.com/Kethanvr/Codex-about)** - Making coding actually enjoyable
 
