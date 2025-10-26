@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
+🚧 Profile Under Reconstruction 🚧
   
+This README is currently being updated with fresh content and new projects!
+Check back soon for the latest updates. In the meantime, feel free to explore my pinned repositories below!
 # Hey there! 👋 I'm Kethan VR
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Software+Engineering+Student;Always+Learning%2C+Always+Building" alt="Typing SVG" />
