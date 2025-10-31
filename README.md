@@ -2,7 +2,7 @@
   <img src="https://github.com/Kethanvr/Kethanvr/blob/output/github-contribution-grid-snake-dark.svg" alt="Kethan's contribution snake animation">
 </div>
 
-<div align="center">
+<div align="center"> 
 🚧 Profile Under Reconstruction 🚧
   
 This README is currently being updated with fresh content and new projects!
