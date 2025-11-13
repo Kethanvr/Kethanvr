@@ -83,6 +83,9 @@ What really gets me going? Taking messy, complicated problems and turning them i
 
 <div align="center">
 
+<a href="https://github.com/Kethanvr/ecometer-ai" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=ecometer-ai&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+</a>
 <a href="https://github.com/Kethanvr/cocreateai-about" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=cocreateai-about&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
 </a>
@@ -91,6 +94,12 @@ What really gets me going? Taking messy, complicated problems and turning them i
 </a>
 
 </div>
+
+### 🌱 **[EcoMeter AI](https://ecometer.kethanvr.me)** - Making carbon emissions actually understandable
+
+An intelligent carbon-emission storytelling platform that transforms sustainability data into compelling narratives. Perfect for teams who need to explain impact, explore trade-offs, and pitch reduction strategies without drowning in spreadsheets. Features AI-powered insights, interactive dashboards, and forecast comparisons that make ESG reporting actually engaging.
+
+*Built with: Next.js, TypeScript, Recharts, Tailwind CSS, shadcn/ui, AI-powered analytics*
 
 ### 🔍 **[InstaSearch](https://instasearch.kethanvr.me)** - When you need that perfect image
 
@@ -108,7 +117,13 @@ This one's close to my heart. It's an e-commerce platform showcasing India's aut
 
 Ever wanted high-quality movie wallpapers or posters? This platform gives you detailed movie info plus CineShot for downloading gorgeous images. Perfect for when Netflix's thumbnails just won't cut it.
 
-*Built with: Next.js, TypeScript, ShadCN , TMDB API*
+*Built with: Next.js, TypeScript, ShadCN, TMDB API*
+
+---
+
+## Other cool things I've worked on
+
+*These projects showcase different aspects of my development journey:*
 
 ### 💻 **[CodeX AI](https://github.com/Kethanvr/Codex-about)** - Making coding actually enjoyable
 
