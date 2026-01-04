@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-🚧 Profile Under Reconstruction 🚧
+🚧 Profile Under Reconstruction 🚧 
   
 This README is currently being updated with fresh content and new projects!
 Check back soon for the latest updates. In the meantime, feel free to explore my pinned repositories below!
