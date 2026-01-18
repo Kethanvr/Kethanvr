@@ -1,15 +1,12 @@
-   <div align="center">
+<div align="center">
   <img src="https://github.com/Kethanvr/Kethanvr/blob/output/github-contribution-grid-snake-dark.svg" alt="Kethan's contribution snake animation">
 </div>
 
-<div align="center"> 
-🚧 Profile Under Reconstruction 🚧  
-  
-This README is currently being updated with fresh content and new projects!
-Check back soon for the latest updates. In the meantime, feel free to explore my pinned repositories below!
+<div align="center">
+
 # Hey there! 👋 I'm Kethan VR 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Software+Engineering+Student;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Software+Engineering+Student;Building+Real+Solutions" alt="Typing SVG" />
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKethanvr&label=Profile%20Views&countColor=%2337d67a&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKethanvr)
 
@@ -21,17 +18,17 @@ Check back soon for the latest updates. In the meantime, feel free to explore my
 
 ## Who am I?
 
-Well, I'm just a guy who gets genuinely excited when code actually works on the first try (rare, but it happens!). Currently studying software engineering and spending way too many hours figuring out why my React components won't behave.
+I'm a software engineer Student who transforms complex problems into elegant solutions. Currently building full-stack platforms that make a real impact—from AI-powered applications to campus digital ecosystems that serve thousands of students.
 
-What really gets me going? Taking messy, complicated problems and turning them into clean, working solutions. There's something almost magical about that moment when everything clicks together.
+What drives me? Creating software that genuinely improves lives. Whether it's helping students track their campus journey through verified profiles or making sustainability data understandable, I focus on building solutions that matter.
 
 **Right now, I'm:**
-- Deep in the Next.js and TypeScript rabbit hole (loving every minute of it)
-- Getting my hands dirty with LangChain, Supabase, and AI agents
-- Probably debugging something that worked perfectly yesterday
-- Building stuff that I hope makes people's lives a little easier
+- Building next-generation campus platforms (CMRIT Events Hub & Academic Material Portal)
+- Deep-diving into Next.js 16, TypeScript, and AI/LLM integration  
+- Crafting seamless user experiences with modern web technologies
+- Solving real problems with scalable, production-ready solutions
 
-**Random fact about me:** I genuinely enjoy the debugging process. Yeah, I know that's weird, but there's something satisfying about being a code detective! 🕵️‍♂️
+**Philosophy:** Code with purpose, build with passion, and never stop learning. Also, I genuinely enjoy debugging—there's something thrilling about being a code detective! 🕵️‍♂️
 
 <br clear="both">
 
@@ -39,11 +36,11 @@ What really gets me going? Taking messy, complicated problems and turning them i
 
 ## The tools I work with
 
-*Not gonna lie, this list keeps growing because I can't stop trying new things...*
+*A carefully curated tech stack mastered through real-world projects:*
 
 <div align="center">
 
-### **Languages that don't make me cry**
+### **Languages & Frameworks**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -51,14 +48,14 @@ What really gets me going? Taking messy, complicated problems and turning them i
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### **Web stuff that actually works**
+### **Frontend & Fullstack**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### **Where I store all my data**
+### **Database & Backend Services**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -66,7 +63,7 @@ What really gets me going? Taking messy, complicated problems and turning them i
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### **Daily essentials**
+### **Development Tools**
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -77,23 +74,27 @@ What really gets me going? Taking messy, complicated problems and turning them i
 
 ---
 
-## Some stuff I've built
+## Featured Projects
+
+*Production-ready solutions making a real impact:*
+
+### 🎓 **[CMRIT Events Hub](https://cmrit-events.vercel.app)** - The "LinkedIn for Campus"
+
+A full-stack platform revolutionizing campus activities by bridging students and club administrators with verifiable records of participation, achievements, and skills. Features dynamic student profiles, QR-code attendance tracking, XP leaderboards, and automated event management.
+
+*Built with: Next.js 16, React 19, Supabase, Tailwind CSS, Shadcn UI, TanStack Query*
+
+### 📚 **[Academic Material Portal](https://ise-study-material.vercel.app)** - Your study hub, simplified
+
+A high-performance academic resource platform replacing scattered links with a unified interface for lecture notes, syllabus copies, and question banks. Features smart file previews, instant downloads, real-time admin dashboard, and full PWA support for offline access.
+
+*Built with: Next.js 16, TypeScript, Tailwind CSS, Shadcn UI, Real-time Data Architecture*
 
 *Here are a few projects I'm actually proud of (and that work most of the time):*
 
-<div align="center">
 
-<a href="https://github.com/Kethanvr/ecometer-ai" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=ecometer-ai&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
-</a>
-<a href="https://github.com/Kethanvr/cocreateai-about" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=cocreateai-about&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
-</a>
-<a href="https://download-mediscan.vercel.app" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=Download-Mediscan&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
-</a>
+## Some stuff I've built
 
-</div>
 
 ### 🌱 **[EcoMeter AI](https://ecometer.kethanvr.me)** - Making carbon emissions actually understandable
 
@@ -121,7 +122,7 @@ Ever wanted high-quality movie wallpapers or posters? This platform gives you de
 
 ---
 
-## Other cool things I've worked on
+## Other Cool Things I've Built
 
 *These projects showcase different aspects of my development journey:*
 
@@ -130,18 +131,6 @@ Ever wanted high-quality movie wallpapers or posters? This platform gives you de
 An AI-powered development platform that doesn't suck. Clean interface, real-time preview, and AI assistance that actually helps instead of getting in your way. Still working on making it perfect, but it's getting there!
 
 *Built with: React, Remix, TypeScript, CodeMirror 6, and some AI magic*
-
-### 🤖 **[Shūn.AI](https://ai.kethanvr.me)** - The future of AI (hopefully)
-
-This is my moonshot project - pushing AI boundaries and seeing what's possible. It's in early stages, but I'm excited about where it's heading. Advanced problem-solving is just the beginning.
-
-*Built with: Next.js, TypeScript, ShadCN, and big dreams*
-
-### 🛡️ **Security Tools** - Because cybersecurity is fascinating
-
-Built a couple of penetration testing tools: a [Smart Wordlist Generator](https://github.com/Kethanvr/WordList) and an [Nmap GUI Toolkit](https://github.com/Kethanvr/Nmap). These are for the ethical hackers out there who want better tools for security assessments.
-
-*Note: These are educational tools for authorized testing only!*
 
 ### 🧠 **[TherapEase](https://therapease.kethanvr.me)** - Mental health support that's accessible
 
@@ -220,7 +209,9 @@ Always down to chat about code, swap project ideas, or just talk tech. Don't be 
 
 *Good music = good code (that's totally how it works, right?)*
 
-<div align="center"> <img src="https://spotify-github-profile.kittinanx.com/api/spotify?background_color=1a1b27&border_color=7F3FBF&bar_color=53d769" alt="Spotify Now Playing Card" /> </div>
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/spotify?background_color=1a1b27&border_color=7F3FBF&bar_color=53d769" alt="Spotify Now Playing Card" />
+</div>
 
 ---
 
