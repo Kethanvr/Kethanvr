@@ -95,6 +95,17 @@ A high-performance academic resource platform replacing scattered links with a u
 
 ## Some stuff I've built
 
+<div align="center">
+  <a href="https://download-mediscan.vercel.app" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=Download-Mediscan&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+</a>
+<a href="https://github.com/Kethanvr/cocreateai-about" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kethanvr&repo=cocreateai-about&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+</a>
+
+
+</div>
+
 
 ### 🌱 **[EcoMeter AI](https://ecometer.kethanvr.me)** - Making carbon emissions actually understandable
 
