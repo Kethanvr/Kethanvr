@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img src="https://github.com/Kethanvr/Kethanvr/blob/output/github-contribution-grid-snake-dark.svg" alt="Kethan's contribution snake animation">
 </div>
 
