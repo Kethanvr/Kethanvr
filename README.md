@@ -133,7 +133,7 @@ Ever wanted high-quality movie wallpapers or posters? This platform gives you de
 
 ---
 
-## Other Cool Things I've Built
+## Other Cool  Things I've Built
 
 *These projects showcase different aspects of my development journey:*
 
