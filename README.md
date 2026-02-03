@@ -226,6 +226,8 @@ Always down to chat about code, swap project ideas, or just talk tech. Don't be 
 
 ---
 
+
+
 <div align="center">
   
 ## "Code. Build. Learn. Repeat." 
