@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## Who am I?
-
+ 
 I'm a software engineer Student who transforms complex problems into elegant solutions. Currently building full-stack platforms that make a real impact—from AI-powered applications to campus digital ecosystems that serve thousands of students.
 
 What drives me? Creating software that genuinely improves lives. Whether it's helping students track their campus journey through verified profiles or making sustainability data understandable, I focus on building solutions that matter.
